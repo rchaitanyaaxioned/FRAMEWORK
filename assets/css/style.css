@@ -250,6 +250,12 @@ p {
 /*=================================
   footer styling starts here
 =================================*/
+footer {
+  color: black;
+  font-size: small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
 
 /*=================================
   footer styling ends here
